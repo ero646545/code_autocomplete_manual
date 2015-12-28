@@ -36,3 +36,18 @@ lower case (this is not the name the end user will see, and changing it later is
 .. image:: images/addon_development/incorrect_addon_name.png
 
 .. image:: images/addon_development/corrected_addon_name.png
+
+Once you have a correct name you get a new button to finally create the addon folder.
+You get two template options:
+
+    - Basic:
+        This template contains only the minimum code that is needed to have a valid addon.
+        There is the *bl_info* property as well as the *register* and *unregister* functions.
+
+    - Multi-File:
+        This (recommended) addon template contains the same as *Basic*, but beside that
+        there is a license and code that simplifies loading the different files of your
+        addon. The loading code is the same that imports other addons like *Code Autocomplete*
+        itself, but also the *Animation Nodes* addon.
+
+.. image:: images/addon_development/new_addon_template_selection.png
