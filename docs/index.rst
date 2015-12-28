@@ -13,3 +13,4 @@ http://jedi.jedidjah.ch/en/latest/
    :maxdepth: 0
 
    setup
+   using_the_autocompletion
