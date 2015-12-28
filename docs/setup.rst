@@ -1,4 +1,7 @@
-############
+*****
+Setup
+*****
+
 Installation
 ############
 
@@ -30,3 +33,11 @@ When there is a error message *Jedi library not found* you have to use another
 because the Jedi library is a submodule which isn't included in these downloads.
 You can either use an official release or use git to download the repository
 and its submodules.
+
+
+Finish the Setup
+################
+
+As last step you should click on the **Build BPY Module** button which creates a
+fake python module for large parts of the normal bpy module, so that Jedi can
+autocomplete types that are implemented in C instead of Python.
