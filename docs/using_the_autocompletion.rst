@@ -14,5 +14,5 @@ As soon as you start typing a context box will popup that gives you suggestions.
 Normally the context box opens and closes automatically but you can also do this
 manually:
 
-    - *Open:* shift ESC
-    - *Close:* ESC or clicking somewhere else in the text editor
+    - **Open:** *shift ESC*
+    - **Close:** *ESC* or clicking somewhere else in the text editor
