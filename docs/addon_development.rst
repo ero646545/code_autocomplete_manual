@@ -72,5 +72,21 @@ should open the addon folder in your default file browser using the folder icon.
 The *Save All Files* operator looks which files you have currently opened and will
 save them. When you *Run* the addon this will happen as well.
 
+.. image:: images/addon_development/addon_files_default.png
+
 Addon Development Panel
 -----------------------
+
+When you click onthe *Run Addon* button all files will be saved first.
+Then your addon will be unregistered (if it has been registered before), reloaded
+and registered again.
+
+From time to time it is useful to *Restart Blender* to have a clean working
+environment, so that you are not effected by earlier code executions.
+
+When your addon is in a state so that you want to share it, the *Export as Zip*
+operator becomes very handy. After clicking you have to choose an output location
+and name. Now you complete addon will be packed in to a zip file that others can
+install.
+
+.. image:: images/addon_development/addon_development_panel.png
