@@ -51,3 +51,9 @@ You get two template options:
         itself, but also the *Animation Nodes* addon.
 
 .. image:: images/addon_development/new_addon_template_selection.png
+
+As soon as you select a template the addon folder will be created.
+A new panel called *Addon Files* appears and the *__init__.py* file that
+is the heart of every addon is displayed in the text editor.
+
+.. image:: images/addon_development/default_multi_file_template.png
