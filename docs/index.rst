@@ -15,3 +15,4 @@ http://jedi.jedidjah.ch/en/latest/
    setup
    using_the_autocompletion
    inserting_templates
+   misc
