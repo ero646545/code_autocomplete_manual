@@ -41,3 +41,9 @@ Finish the Setup
 As last step you should click on the **Build BPY Module** button which creates a
 fake python module for large parts of the normal bpy module, so that Jedi can
 autocomplete types that are implemented in C instead of Python.
+
+  .. image:: images/default_panels_finished_setup.png
+
+
+If there are any installation problems please report the issue on github:
+https://github.com/JacquesLucke/code_autocomplete/issues
