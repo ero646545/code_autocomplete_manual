@@ -57,3 +57,20 @@ A new panel called *Addon Files* appears and the *__init__.py* file that
 is the heart of every addon is displayed in the text editor.
 
 .. image:: images/addon_development/default_multi_file_addon.png
+
+
+Working on an Addon
+===================
+
+Addon Files Panel
+-----------------
+
+This panel gives you access to all the files and directories in your addon.
+You can create, open, rename and delete files. For more file manipulations you
+should open the addon folder in your default file browser using the folder icon.
+
+The *Save All Files* operator looks which files you have currently opened and will
+save them. When you *Run* the addon this will happen as well.
+
+Addon Development Panel
+-----------------------
