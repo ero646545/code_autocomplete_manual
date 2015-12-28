@@ -26,3 +26,11 @@ You can change the active text block with the ``ctrl TAB`` shortcut more quickly
 It opens a small menu with all the text blocks that are currently inside the file.
 
 .. image:: images/misc/switch_active_text_block.png
+
+
+Correct Whitespace Inconsistency
+================================
+
+This operator can be found in the *Format* menu. It does the same as
+*Convert to Spaces/to Tabs* but it chooses what to do automatically based on
+the *Tabs as Spaces* property in the *Properties* panel.
