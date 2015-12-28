@@ -79,7 +79,8 @@ Addon Development Panel
 
 When you click onthe *Run Addon* button all files will be saved first.
 Then your addon will be unregistered (if it has been registered before), reloaded
-and registered again.
+and registered again. You should not use the normal *Run Script* button at the
+bottom.
 
 From time to time it is useful to *Restart Blender* to have a clean working
 environment, so that you are not effected by earlier code executions.
