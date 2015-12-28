@@ -16,3 +16,11 @@ manually:
 
     - **Open:** *shift ESC*
     - **Close:** *ESC* or clicking somewhere else in the text editor
+
+Navigation through the context box:
+
+    - *Arrow Up/Down:* Move the selected index in the arrow-direction.
+    - *Page Up/Down:* Same as arrow keys but skips a fixed a few items.
+    - *Home/End:* Jump to the first or last element.
+    - *Wheel Up/Down:* Move the selected index in the rotation direction.
+                       Only works when the mouse is on top of the context box.
