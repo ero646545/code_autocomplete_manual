@@ -90,4 +90,4 @@ operator becomes very handy. After clicking you have to choose an output locatio
 and name. Now you complete addon will be packed in to a zip file that others can
 install.
 
-.. image:: images/addon_development/addon_development_panel.png
+.. image:: images/addon_development/main_panel.png
