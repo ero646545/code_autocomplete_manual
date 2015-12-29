@@ -83,7 +83,8 @@ and registered again. You should not use the normal *Run Script* button at the
 bottom.
 
 From time to time it is useful to *Restart Blender* to have a clean working
-environment, so that you are not effected by earlier code executions.
+environment, so that you are not effected by earlier code executions. This operator
+currently only works on Windows.
 
 When your addon is in a state so that you want to share it, the *Export as Zip*
 operator becomes very handy. After clicking you have to choose an output location
