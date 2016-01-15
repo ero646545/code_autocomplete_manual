@@ -9,8 +9,8 @@ master_doc = 'index'
 project = u'Code Autocomplete'
 copyright = u'2015, Jacques Lucke'
 
-version = '0.0.1'
-release = '0.0.1'
+version = '2.0.0'
+release = '2.0.0'
 
 exclude_patterns = []
 
