@@ -13,6 +13,7 @@ http://jedi.jedidjah.ch/en/latest/
    :maxdepth: 0
 
    setup
+   preferences
    using_the_autocompletion
    inserting_templates
    addon_development
