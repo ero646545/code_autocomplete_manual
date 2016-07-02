@@ -32,7 +32,7 @@ When there is a error message *Jedi library not found* you have to use another
 .zip file in the beginning. Direct download from the github page is not supported,
 because the Jedi library is a submodule which isn't included in these downloads.
 You can either use an official release or use git to download the repository
-and its submodules.
+and its submodules (`git clone --recursive https://github.com/JacquesLucke/code_autocomplete.git`).
 
 
 Finish the Setup
