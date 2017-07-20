@@ -33,7 +33,9 @@ When there is a error message *Jedi library not found* you have to use another
 because the Jedi library is a submodule which isn't included in these downloads.
 You can either use an official release or use git to download the repository
 and its submodules (`git clone --recursive https://github.com/JacquesLucke/code_autocomplete.git`).
-
+follow this video to install the jedi submodule: https://youtu.be/2idzkdoNZ2M
+or just paste this https://github.com/davidhalter/jedi/tree/7651157487511aadc118f7a8753adf709fad1708
+into this C:\Users\"computer name"\AppData\Roaming\Blender Foundation\Blender\2.78\scripts\addons\code_autocomplete-master\jedi
 
 Finish the Setup
 ################
